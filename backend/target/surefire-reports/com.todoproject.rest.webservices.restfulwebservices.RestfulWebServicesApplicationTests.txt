@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.todoproject.rest.webservices.restfulwebservices.RestfulWebServicesApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 6.374 s - in com.todoproject.rest.webservices.restfulwebservices.RestfulWebServicesApplicationTests
